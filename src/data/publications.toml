@@ -139,6 +139,14 @@ topics = ["vision-3d"]
 image = "/publications/echo-2026.webp"
 links = { arxiv = "https://arxiv.org/abs/2609.05506" }
 
+[[publication]]
+id = "pixarg-2026"
+title = "PixARG: Pixel-Asynchronous Retrieval-Augmented Diffusion for Fast and Realistic Image Generation"
+authors = ["Zewei Xin", "Qinya Li", "Chaoyue Niu", "Fan Wu"]
+venues = ["ACM MM 2026"]
+year = 2026
+topics = ["vision-3d"]
+
 # KDD 2026：2026-08-09–13；https://kdd2026.kdd.org/
 [[publication]]
 id = "privacy-annotation-2026"
